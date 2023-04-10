@@ -1,0 +1,62 @@
+Git: software para controle de versão que pode ser usado localmente
+github: Plataforma que é usada em conjunto com o git para armazenar seus programas por meio do git.
+
+3: html, css e javascript.
+HTML: Linguagem de mercação de texto, é a linguagem para construir os documentos na web.
+CSS: Aplicar estilos.
+JavaScript:É uma linguagem de programação para dar mais dinamismo aos elementos da sua pagina da web. É para colocar as paginas do navegador dinamicas.
+
+4:
+Tag: É o que indentifica a marcação ao navegador de como exibir o conteudo de um elemento da página.
+Elemento: Instancia de uma tag em um documento html.
+Atributo: Informação adicional que é adicionada a uma tag para formar mais informações sobre o elemento.
+
+5:
+<!DOCTYPE HTML>
+<html>
+   <head>
+      <title> minha pagina </title>
+      <meta charset="utf-8">
+   <head>
+   <body>
+      <p> Estou por aqui </p>
+   </body>
+</html>
+
+6: É a forma de organiza os protocolos na internet em ordem de abstração.
+
+7:
+TCP: Garante a entrega. Ele é orientado a conexão.
+UDP: Não garante a entrega dos dados.
+
+8: Diferenças. Na arquitetura cliente servidor, o servidor precisa estar sempre ligado, e o endereço de ip do servidor é 
+fixo. clientes se comunicam com 1 servidor, enquanto o servidor se comunica com varios clientes.
+
+p2p: Não existe servidor sempre ligado, comunicação entre dois clientes, ip não é fixo, os usuarios usam serviços um dos
+outros, auto escalável(quanto mais pessoas mais capacidade de servir).
+
+9:Programas rodando em um nó da rede.
+endereço do processo: ip + porta
+
+10: SSL: Secure socket layer, uma ferramenta usada para criptografar a comunicação com sites e navegadores, aumentando a
+segurança.
+
+11:
+root(raiz): elemento que está acima de todos os outros. Todos os outros elementos são descendentes da root, mas ele só tem
+ 2 filhos (head) e (body). O root geralmente é <html>
+filho: elemento que está abaixo do elemento pai e que está diretamente ligado ao pai.
+descendente: elemento que esta abaixo do elemento pai e não necessariamente está ligado ao pai.
+O pai normalmente é o elemento mais externo.
+
+elemento html só tem 2 filhos: head e body
+
+12: marcação/organização: h1, article, maon, title, p, div
+semantica: serve para atribuir sentido aos elementos da pagina.
+
+13: <form>: (permite ao usuário submeter informação)
+
+14: <a>: cria-se um hiperligação nas páginas web, arquivos, endereços de emails, ligações na mesma página ou endereços na
+URL
+
+15: <input>: permite ao usuário
+ 
